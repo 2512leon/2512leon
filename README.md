@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leon De Noronha</h1>
+[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://leondenoronha.io)
+<h1 align="center">Hi! 👋 I'm Leon De Noronha</h1>
 <h3 align="center">A passionate software engineer and frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> 
 
