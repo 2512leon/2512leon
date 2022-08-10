@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://leondenoronha.io)
 <h1 align="center">Hi! 👋 I'm Leon De Noronha</h1>
-<h3 align="center">A passionate software engineer and frontend developer</h3>
+<h3 align="center">A passionate Software Engineer and Developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2512leon&label=Profile%20views&color=0e75b6&style=flat" alt="2512leon" /> </p>
